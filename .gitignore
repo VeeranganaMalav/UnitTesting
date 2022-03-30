@@ -1,0 +1,13 @@
+HELP.md
+target/
+src/main/resources/
+
+.idea/
+.mvn/
+*.xml
+mvnw
+mvnw.cmd
+*.iws
+*.iml
+*.ipr
+*.DS_Store
